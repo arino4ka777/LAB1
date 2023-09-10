@@ -6,7 +6,7 @@
 
 using namespace std;
 
-//const int m = 5, n = 3;
+const int m = 5, n = 3;
 //int **mas = new int *[m];
 
 /*void zapolnenie(int **mas)
